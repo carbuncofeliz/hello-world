@@ -11,3 +11,5 @@ Donec in nibh sit amet diam lacinia sollicitudin condimentum quis mi. Sed at ant
 Praesent interdum, sem vel porttitor pretium, erat eros pretium justo, at volutpat enim diam eget ex. Sed quam diam, scelerisque ac nisl sit amet, accumsan iaculis massa. Integer sed viverra erat, volutpat varius est. Fusce efficitur erat nec ipsum hendrerit, sed lacinia arcu consequat. Ut molestie enim ipsum, vitae consectetur mi porta luctus. In in gravida dui. Vestibulum scelerisque quis erat sit amet placerat. Vivamus efficitur finibus nisl at accumsan. 
 
 ![imagen](https://s-media-cache-ak0.pinimg.com/originals/53/35/2d/53352dd50f96488cf0fc3cc567fe383b.jpg)
+
+Por cierto, $x^2-3x=0$
