@@ -14,3 +14,6 @@ Praesent interdum, sem vel porttitor pretium, erat eros pretium justo, at volutp
 
 Por cierto, $`x^2-3x=0`$
 $`\sqrt{x^2-x+1}`$
+```math
+x^3-x
+```
