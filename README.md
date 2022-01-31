@@ -12,5 +12,5 @@ Praesent interdum, sem vel porttitor pretium, erat eros pretium justo, at volutp
 
 ![imagen](https://s-media-cache-ak0.pinimg.com/originals/53/35/2d/53352dd50f96488cf0fc3cc567fe383b.jpg)
 
-Por cierto, $x^2-3x=0$
-$$\sqrt{x^2-x+1}$$
+Por cierto, $`x^2-3x=0`$
+$`\sqrt{x^2-x+1}`$
